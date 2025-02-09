@@ -60,4 +60,6 @@ In this scene, Bruno's father had arguing with Lieutenant Kolter, the guys are c
 
 There has one centence significant is "Eat your dinner". this centence is from mother and repeats many times and the reason she will command her children is because the discussing between father and Lieutenant Kolter is no good for the children. So father is a cool man, he thoughs his children cause Lieutenant Kolter and Bruno's mother feel more nervous and they will easy show fact to father. 
 
-In my opinion, father is smart and powerful man, he helds his job that he want to protect his family, Of course this active will cause them feel confuse but it is good for them. If he didin't move home, he cannot make sure his family are safe. As he's a 
+In my opinion, father is smart and powerful man, he helds his real job that he want to protect his family, Of course this active will cause them feel confuse but it is good for them. In story, if he didin't move home, he cannot make sure his family are safe. he isn't a cold man, he still loving his family and that's the reason he will finding where are the Bruno at end part.
+
+In 
