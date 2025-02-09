@@ -62,4 +62,4 @@ There has one centence significant is "Eat your dinner". this centence is from m
 
 In my opinion, father is smart and powerful man, he helds his real job that he want to protect his family, Of course this active will cause them feel confuse but it is good for them. In story, if he didin't move home, he cannot make sure his family are safe. he isn't a cold man, he still loving his family and that's the reason he will finding where are the Bruno at end part.
 
-In 
+As a IB student, I'm thinking about how Bruno's father in this book and  surprise for his principle. For English theme, I experiences understand a new character because its first time to analysis Bruno's father, I finds father isn't a very bad man, I think start like this character because his so cool and smart. I should to study it.
