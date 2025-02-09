@@ -1,3 +1,23 @@
+五个核心主题包括 :
+
+- ldentities( 身份认同 )
+- Experiences( 体验 )
+- Human ingenuity (人类创造 )
+- Social organazation( 社会组成 )
+- Sharing the planet( 共享地球 )
+
+ib learner profile
+1. 積極探究(Inquirers)
+2. 知識淵博(Knowledgeable)
+3. 勤於思考(Thinkers)
+4. 善於交流(Communicators)
+5. 堅持原則(Principled)
+6. 胸襟開闊(Open minded)
+7. 懂得關愛(caring)
+8. 勇於嘗試/風險承擔(Risk-takers)
+9. 全面發展(Balanced)
+10.及時反思(Reflective)
+
 > **套句:**
 >
 > **The Boy in the Striped Pajamas**
@@ -36,6 +56,8 @@ https://acisbedu-my.sharepoint.com/:w:/r/personal/zhan_jin_ac_isb_edu_bn/_layout
 
 I would talk about The Boy in the Striped Pajamas by John Boyne. This book had talked about the story of World War 2, Nazi Germany would kill Jewish people, and the main characters are both at this time. Bruno and Shmuel, they are the best friends and both 9 years old. In the book, Bruno crosses the fence and helps Shmuel find his father. Bruno is a German boy; he lives with his family at his new house. His father is' a powerful man; he would manage many armors working at the concentration.
 
-In this scene, Bruno's father had arguing with Lieutenant Kolter, the guys are cry and the man are angry. At this part, everyone is talking but they have different target. Father is angry for Lieutenant Kolter and mother, Gretel want to travel and Bruno is confuse. It shows us the real social level of Germany that father higher than mother, mother higher than children and children higher than staff. 
+In this scene, Bruno's father had arguing with Lieutenant Kolter, the guys are cry and the man are angry. At this part, everyone is talking but they have different target. Father is angry for Lieutenant Kolter and mother, Gretel want to travel and Bruno is confuse. It shows us the real social level of Germany that father higher than mother, mother higher than children and children higher than staff. "This is the fourth time I've had to ask for more wine." this centence can show father is so angry for mother and Kotler, he never shows his emoji on the centence, but we can feel it. 
 
-There has one centence significant is "Eat your dinner". this centence is from mother and repeats many times and the reason she will command her children is because the discussing between father and Lieutenant Kolter is no good for the children. This part thought a dinner party show Bruno's father isn't good. 
+There has one centence significant is "Eat your dinner". this centence is from mother and repeats many times and the reason she will command her children is because the discussing between father and Lieutenant Kolter is no good for the children. So father is a cool man, he thoughs his children cause Lieutenant Kolter and Bruno's mother feel more nervous and they will easy show fact to father. 
+
+In my opinion, father is smart and powerful man, he helds his job that he want to protect his family, Of course this active will cause them feel confuse but it is good for them. If he didin't move home, he cannot make sure his family are safe. As he's a 
