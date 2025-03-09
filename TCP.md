@@ -1,4 +1,4 @@
-#### Description
+1#### Description
 
 1. Create a comic strip to explain ho each of the internet protocols (TCP/IP, HTTPS, DNS) are used when transmitting data on the Internet.
 2. Answer the following questions:
@@ -158,15 +158,15 @@ They have less rights, security & bargaining power
 
 Real Life Example 
 
- 
+ For drivers and couriers in the UK’s gig economy, employment status really matters. Most of them are classed as self-employed and do not receive statutory sick pay, for example.
 
 Possible Causes 
 
- 
+ become very controversial, mainly due to how some of the major gig economy companies operate in the grey areas of employment law.
 
 Negative Impacts 
 
- 
+ They have no protection against dismissa
 
  
 
