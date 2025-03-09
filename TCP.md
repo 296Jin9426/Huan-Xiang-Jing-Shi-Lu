@@ -5,11 +5,16 @@
 
 ​	a)    Using your learning of Internet protocols, explain how the internet is interoperable
 
-​			the internet use computer link
+The devices can use a same protocol that different devices can explain once information to some result. As same as a translater that different operation system can sharing in internet.
 
 ​	b)   Protocols include HTTP and HTTPS – define each of these terms.
 
+The HTTP is text file, it store computer language of web page that browser will understand it. So every one can read it and the hacker can read it easily.
+And The HTTPS also is a HTTP protocol but it use SSL function encrypted text file so hacker cannot understand it.
+
 ​	c)    The IP Address is an important detail when communicating information.  Give an example of what an IP address may look like and explain when a business may use a static IP address and when it is appropriate to use a dynamic IP address.
+
+IP address such as 127.0.0.1 is the coordinate of computer. It has static IP address and dynamic IP addres, for static IP address, it is always constant, it can use at server that they need working long times and the dynamic IP address is a temporary address that it back to ISP when you stop connection 
 
 ​	d)    The following web address (URL) https://themeisle.com/blog/what-is-a-website-url/ consists of 3 main parts.  Explain each – Protocol, Domain name, Path
 
@@ -132,6 +137,56 @@ SSL
 ## ISP
 
 > 网络业务提供商，能提供[拨号上网](https://baike.baidu.com/item/拨号上网/7343999?fromModule=lemma_inlink)服务、网上浏览、下载文件、收发电子邮件等服务，是网络最终用户进入Internet的入口和桥梁。它包括Internet接入服务和Internet内容提供服务。这里主要是Internet接入服务，即通过电话线把你的计算机或其他[终端设备](https://baike.baidu.com/item/终端设备/643738?fromModule=lemma_inlink)连入Internet。
+
+
+
+Who 
+
+Gig worker 
+
+What 
+
+They have less rights, security & bargaining power 
+
+ 
+
+Real Life Example 
+
+ 
+
+Possible Causes 
+
+ 
+
+Negative Impacts 
+
+ 
+
+ 
+
+Intervention Evaluation 
+
+What is the Intervention 
+
+ 
+
+Category of intervention 
+
+Mitigate / Intercedes / Enhances / Resolves 
+
+Description – who what, where, when 
+
+ 
+
+How does it solve the challenge 
+
+ 
+
+Limitations of the intervention 
+
+ 
+
+
 
 
 
