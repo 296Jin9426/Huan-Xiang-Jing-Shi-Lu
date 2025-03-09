@@ -16,9 +16,15 @@ And The HTTPS also is a HTTP protocol but it use SSL function encrypted text fil
 
 IP address such as 127.0.0.1 is the coordinate of computer. It has static IP address and dynamic IP addres, for static IP address, it is always constant, it can use at server that they need working long times and the dynamic IP address is a temporary address that it back to ISP when you stop connection 
 
-​	d)    The following web address (URL) https://themeisle.com/blog/what-is-a-website-url/ consists of 3 main parts.  Explain each – Protocol, Domain name, Path
+​	d)    The following web address (URL) https://themeisle.com/blog/ consists of 3 main parts.  Explain each – Protocol, Domain name, Path
+
+protocol: https
+domain name: themeisle.com
+path: blog/what-is-a-website-url/
 
 ​	e)    Explain the role of the Internet Service Provider
+
+The ISP can turn domain name into IP address and it will give each device dynamic IP address, it will back when device stop connection and ISP reuse this address to share another device.
 
 #### 描述
 
