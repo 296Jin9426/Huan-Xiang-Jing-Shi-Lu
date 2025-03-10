@@ -148,25 +148,25 @@ SSL
 
 Who 
 
-Gig worker 
+- Gig worker 
 
 What 
 
-They have less rights, security & bargaining power 
+- They have less rights, security & bargaining power 
 
  
 
 Real Life Example 
 
- For drivers and couriers in the UK’s gig economy, employment status really matters. Most of them are classed as self-employed and do not receive statutory sick pay, for example.
+- For drivers and couriers in the UK’s gig economy, employment status really matters. Most of them are classed as self-employed and do not receive statutory sick pay, for example.
 
 Possible Causes 
 
- become very controversial, mainly due to how some of the major gig economy companies operate in the grey areas of employment law.
+- become very controversial, mainly due to how some of the major gig economy companies operate in the grey areas of employment law.
 
 Negative Impacts 
 
- They have no protection against dismissa
+- They have no protection against dismissa
 
  
 
@@ -174,21 +174,23 @@ Intervention Evaluation
 
 What is the Intervention 
 
- 
+- Build a gig worker manage system, it will store each worker's information and experiment. The business man will share the work and check the gig worker's experiment, the worker will take the worker at this system and the system company will store gig workers and business men are can believed.
 
 Category of intervention 
 
-Mitigate / Intercedes / Enhances / Resolves 
+- Resolves 
 
 Description – who what, where, when 
 
- 
+- the gig worker system company is one system that good for company and gig worker, it will share the information of work, company and worker. So company can have good gig worker and protect the worker's pwoer. Each information will store in a data base server and the system company will make server work and give enough help to the work and company.
 
 How does it solve the challenge 
 
- 
+- THe system can help company take good gig worker and gig worker can have enough protect
 
 Limitations of the intervention 
+
+- it will spend many time to build this system and take enough company and gig worker joined, even it will have government to helpe some place such as the law.
 
  
 
